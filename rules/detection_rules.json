@@ -1,0 +1,5 @@
+{
+  "bruteforce_threshold": 5,
+  "high_risk_threshold": 10,
+  "medium_risk_threshold": 5
+}
