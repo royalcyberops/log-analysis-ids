@@ -1,0 +1,5 @@
+Jul 05 10:00:01 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jul 05 10:00:03 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jul 05 10:00:04 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jul 05 10:00:05 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jul 05 10:00:06 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
